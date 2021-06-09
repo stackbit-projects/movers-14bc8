@@ -5,7 +5,7 @@ sections:
     template: section_hero
     title: Hero Section
     section_id: hero
-    image: images/5.jpg
+    image: /images/post_06.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
