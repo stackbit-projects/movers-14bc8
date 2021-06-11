@@ -1,12 +1,12 @@
 {
-  "title": "U Kargo Movers and Packers",
+  "title": "Projects and Logistics",
   "palette": "blue",
   "header": {
     "type": "header",
     "template": "header",
-    "title": "Ukargo.com",
+    "title": "Projects and Logistics",
     "logo_img": "images/logo.svg",
-    "logo_img_alt": "ukargo movers in abu dhabi",
+    "logo_img_alt": "Projects and Logistics",
     "has_nav": true,
     "nav_links": [
       {
